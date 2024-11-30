@@ -57,7 +57,7 @@
 
 ## 🔗 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/dedsecrattle" target="_blank">
+  <a href="https://www.linkedin.com/in/prabhat-kumar-375109151/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:itsprabxxx@gmail.com" target="_blank">
