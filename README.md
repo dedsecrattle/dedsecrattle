@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Prabhat Kumar (a.k.a. dedsecrattle)!
+# 👋 Hi there, I'm Prabhat Kumar!
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00FF85&width=435&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Educator+%7C+Entrepreneur+%7C+Trader;Welcome+to+My+GitHub!+%F0%9F%91%8B" alt="Typing SVG" />
