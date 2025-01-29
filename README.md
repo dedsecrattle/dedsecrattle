@@ -31,11 +31,13 @@
 ---
 
 ## 🌟 Notable Projects
-- **[QuestAI](#)**: AI-powered LMS for students.
-- **[D3D Market Scanner](#)**: Forex market analyzer mobile app for retail traders.
-- **[KnowIt](#)**: Multiplayer online quiz game.
-- **[Edulink NUS](#)**: Utility app for professors to manage student records.
-
+- **[QuestAI](https://github.com/dedsecrattle/QuestAI)**: AI-powered LMS for students.
+- **[D3D Market Scanner](https://github.com/dedsecrattle/D3D-Market-Scanner)**: Forex market analyzer mobile app for retail traders.
+- **[KnowIt](https://github.com/Shivang211/KnowIt)**: Multiplayer online quiz game.
+- **[Edulink NUS](https://github.com/dedsecrattle/EduLink-NUS)**: Utility app for professors to manage student records.
+- **[LuckyJinx](https://github.com/dedsecrattle/LuckyJinx)**: Microservices based Collaborative Platform to solve Leetcode style problems
+- **[Retro Reader](https://github.com/dedsecrattle/RetroReader-NLP)**: NLP Project for Extractive Question Answering 
+- **[Todo Application](https://github.com/dedsecrattle/Todo-Application)**: Todo Application to store and retrieve and update Todos
 ---
 
 ## 🛠️ Skills & Tools
